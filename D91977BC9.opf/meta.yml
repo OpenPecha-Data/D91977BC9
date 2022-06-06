@@ -6,7 +6,13 @@ imported: '2021-11-12T09:42:41+00:00'
 last_modified: '2022-05-27T05:52:18.477278+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    80c0:
+      image_group_id: I1PD95902
+      title: རྟེན་ཅིང་འབྲེལ་པར་འབྱུང་བའི་སྙིང་པོའི་རྣམ་པར་བཤད་པ།
+      total_pages: 1605
+      order: 57
+      base_file: 80c0.txt
 statistics: {}
 quality: {}
 copyright:
